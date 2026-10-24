@@ -1,7 +1,7 @@
 # 📊 Mauna Loa $CO_2$ Konsantrasyon Analizi (1977 – 1989)
 https://gml.noaa.gov/ccgg/trends/
 
-Bu projede, 1977–1989 yılları arasında Mauna Loa Gözlemevi'nde ölçülen atmosfere ait Karbondioksit ($CO_2$) değerlerinin Excel kullanılarak zaman serisi analizi, yıllık ortalamaları ve yıllık artış oranları incelenmiştir.
+Bu projede, 1977–1989 yılları arasında Mauna Loa Gözlemevi'nde ölçülen atmosfere ait Karbondioksit ($CO_2$) değerlerinin Excel kullanılarak zaman serisi analizi ve yıllık artış oranları incelenmiştir.
 
 ---
 
