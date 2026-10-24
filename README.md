@@ -19,4 +19,4 @@ Bu projede, 1977–1989 yılları arasında Mauna Loa Gözlemevi'nde ölçülen 
 
 ## 📬 İletişim
 * **GitHub:** [@Emre222Y](https://github.com/Emre222Y)
-* **LinkedIn:** [Profilim]((https://www.linkedin.com/in/emre-yavuz-ertan-736500441/))
+* **LinkedIn:** [(https://www.linkedin.com/in/emre-yavuz-ertan-736500441/))
